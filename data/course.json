@@ -34,6 +34,7 @@
     "website": "16-a47-the-engineer-of-2020-fall-2009"
   },
   "course_title": "The Engineer of 2020",
+  "hide_download": true,
   "course_description": "Numerous recent studies have shown that the U.S. has relatively low percentages of students who enter science and engineering and a high drop-out rate. Some other countries are producing many more scientists and engineers per capita than the U.S. What does this mean for the future of the U.S. and the global economy?\n\nIn this readings and discussion-based seminar you will meet weekly with the Dean of Undergraduate Education to explore the kind of education MIT and other institutions are and should be giving. Based on data from National Academy and other reports, along with what pundits have been saying, we'll see if we can decide how much the U.S. may or may not be at risk.\n",
   "department_numbers": [
     "16"
@@ -44,6 +45,7 @@
     "content": "4643a4c6-00dc-c5bb-e450-f9808ac355eb",
     "website": "16-a47-the-engineer-of-2020-fall-2009"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],

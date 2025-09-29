@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the reading assignments for each lecture session
   of the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -55,13 +57,13 @@ Another view of globalization: even in a spiky world there are issues
 
 "The World is Spiky." _The Atlantic Monthly_, October 2005, 48-51.
 
-Augustine, Norm, et al. "{{% resource_link "6ea78065-210b-4cec-8d46-208572b39af3" "Rising About the Gathering Storm: Energizing and Employing America for a Brighter Economic Future" %}}." Washington, DC: National Academies Press, 2005.
+Augustine, Norm, et al. "[Rising About the Gathering Storm: Energizing and Employing America for a Brighter Economic Future](http://www.nap.edu/catalog.php?record_id=11463)." Washington, DC: National Academies Press, 2005.
 
 Alvarez, Michael. "Follow the Money." _Nature_ 446 (2007): 230.
 
-Galama, Titus, and James Hosek. "{{% resource_link "92313111-3506-4fa9-adc8-c6470bf7b3be" "Perspectives on U.S. Competitiveness in Science and Technology" %}}." Santa Monica, CA: RAND Corporation, 2007.
+Galama, Titus, and James Hosek. "[Perspectives on U.S. Competitiveness in Science and Technology](http://www.rand.org/pubs/conf_proceedings/CF235/)." Santa Monica, CA: RAND Corporation, 2007.
 
-Ezell, Stephen, and Robert Atkinson. "{{% resource_link "e08803ca-8f2a-4d81-b5b2-ee39c6f4a37d" "RAND's Rose-Colored Glasses: How RAND's Report on U.S. Competitiveness in Science and Technology Gets it Wrong" %}}." The Information Technology and Innovation Foundation, September 10, 2008.
+Ezell, Stephen, and Robert Atkinson. "[RAND's Rose-Colored Glasses: How RAND's Report on U.S. Competitiveness in Science and Technology Gets it Wrong](https://itif.org/publications/2008/09/10/rands-rose-colored-glasses-how-rands-report-us-competitiveness-science-and)." The Information Technology and Innovation Foundation, September 10, 2008.
 
 
 {{< tdclose >}}
@@ -177,9 +179,9 @@ MIT has thought hard about the integration of life and learning and tried to imp
 {{< tdopen >}}
 
 
-"{{% resource_link "3e2be4e1-64c2-46f4-91cf-b3856515b305" "Task Force on Student Life and Learning" %}}." Cambridge, MA: Massachusetts Institute of Technology, 2006.
+"[Task Force on Student Life and Learning](http://web.mit.edu/committees/sll/tf.html)." Cambridge, MA: Massachusetts Institute of Technology, 2006.
 
-"{{% resource_link "a32dbb7c-5d46-47ab-9736-954e931cc81b" "Report of the Task Force on the Undergraduate Educational Commons" %}}." Cambridge, MA: Massachusetts Institute of Technology, 2006.
+"[Report of the Task Force on the Undergraduate Educational Commons](http://web.mit.edu/committees/edcommons/documents/task_force_report.html)." Cambridge, MA: Massachusetts Institute of Technology, 2006.
 
 
 {{< tdclose >}}
@@ -197,7 +199,7 @@ Other ways to think about engineering education
 
 ABET. "2007-2008 Criteria for Accrediting Engineering Programs." Baltimore, MD: ABET, 2007.
 
-Guizzo, Eric. "{{% resource_link "4b931365-9d46-4df5-96e1-fab8ed3d5eba" "The Olin Experiment" %}}." _IEEE Spectrum_, May 2006.
+Guizzo, Eric. "[The Olin Experiment](http://spectrum.ieee.org/at-work/education/the-olin-experiment)." _IEEE Spectrum_, May 2006.
 
 Magee, Christopher L. "Needs and Possibilities for Engineering Education: One Industrial/Academic Perspective." Cambridge, MA: Massachusetts Institute of Technology, 2009.
 
@@ -225,9 +227,9 @@ Hastings, Daniel. "The Future of Engineering Systems: Development of Engineering
 
 Sheffi, Yossi. "Geeks and Chiefs: Thoughts on Engineering Education at MIT." 6th Annual Charles L. Miller Lecture, Cambridge, MA, April 5, 2007.
 
-Duderstadt, James. "Engineering for a Changing World: A Road Map to the Future of Engineering Practice, Research, and Education." Ann Arbor, MI: University of Michigan, 2007. ({{% resource_link "497f9118-db1c-49ad-a182-fca09cc130d2" "PDF - 5.5MB" %}})
+Duderstadt, James. "Engineering for a Changing World: A Road Map to the Future of Engineering Practice, Research, and Education." Ann Arbor, MI: University of Michigan, 2007. ([PDF - 5.5MB](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/88644/2008_A_Roadmap_for_Engineering.pdf?sequence=1&isAllowed=y))
 
-Silbey, Susan. "{{% resource_link "d0b8545d-d969-4b3d-97ac-811ee616eaf7" "Developing Diverse Leadership for Engineering" %}}."
+Silbey, Susan. "[Developing Diverse Leadership for Engineering](http://web.mit.edu/ssilbey/www/diverse_leadership.html)."
 
 
 {{< tdclose >}}
