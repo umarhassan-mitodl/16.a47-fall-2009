@@ -55,13 +55,13 @@ Another view of globalization: even in a spiky world there are issues
 
 "The World is Spiky." _The Atlantic Monthly_, October 2005, 48-51.
 
-Augustine, Norm, et al. "[Rising About the Gathering Storm: Energizing and Employing America for a Brighter Economic Future](http://www.nap.edu/catalog.php?record_id=11463)." Washington, DC: National Academies Press, 2005.
+Augustine, Norm, et al. "{{% resource_link "c9c68f6a-e0bc-41b6-913f-f7f5ae394b26" "Rising About the Gathering Storm: Energizing and Employing America for a Brighter Economic Future" %}}." Washington, DC: National Academies Press, 2005.
 
 Alvarez, Michael. "Follow the Money." _Nature_ 446 (2007): 230.
 
-Galama, Titus, and James Hosek. "[Perspectives on U.S. Competitiveness in Science and Technology](http://www.rand.org/pubs/conf_proceedings/CF235/)." Santa Monica, CA: RAND Corporation, 2007.
+Galama, Titus, and James Hosek. "{{% resource_link "d1b406a9-8f4d-4f5d-86c9-a110cb91cbf0" "Perspectives on U.S. Competitiveness in Science and Technology" %}}." Santa Monica, CA: RAND Corporation, 2007.
 
-Ezell, Stephen, and Robert Atkinson. "[RAND's Rose-Colored Glasses: How RAND's Report on U.S. Competitiveness in Science and Technology Gets it Wrong](https://itif.org/publications/2008/09/10/rands-rose-colored-glasses-how-rands-report-us-competitiveness-science-and)." The Information Technology and Innovation Foundation, September 10, 2008.
+Ezell, Stephen, and Robert Atkinson. "{{% resource_link "cc042e88-3bf5-441f-91fa-48e5022beb8d" "RAND's Rose-Colored Glasses: How RAND's Report on U.S. Competitiveness in Science and Technology Gets it Wrong" %}}." The Information Technology and Innovation Foundation, September 10, 2008.
 
 
 {{< tdclose >}}
@@ -177,9 +177,9 @@ MIT has thought hard about the integration of life and learning and tried to imp
 {{< tdopen >}}
 
 
-"[Task Force on Student Life and Learning](http://web.mit.edu/committees/sll/tf.html)." Cambridge, MA: Massachusetts Institute of Technology, 2006.
+"{{% resource_link "a8c328eb-6458-4c8b-880d-9e7079f1636e" "Task Force on Student Life and Learning" %}}." Cambridge, MA: Massachusetts Institute of Technology, 2006.
 
-"[Report of the Task Force on the Undergraduate Educational Commons](http://web.mit.edu/committees/edcommons/documents/task_force_report.html)." Cambridge, MA: Massachusetts Institute of Technology, 2006.
+"{{% resource_link "bf6ea7ee-faa6-49cd-b88e-89716f0d926e" "Report of the Task Force on the Undergraduate Educational Commons" %}}." Cambridge, MA: Massachusetts Institute of Technology, 2006.
 
 
 {{< tdclose >}}
@@ -197,7 +197,7 @@ Other ways to think about engineering education
 
 ABET. "2007-2008 Criteria for Accrediting Engineering Programs." Baltimore, MD: ABET, 2007.
 
-Guizzo, Eric. "[The Olin Experiment](http://spectrum.ieee.org/at-work/education/the-olin-experiment)." _IEEE Spectrum_, May 2006.
+Guizzo, Eric. "{{% resource_link "52c91685-f024-47b8-a6d3-a05e82e2d6da" "The Olin Experiment" %}}." _IEEE Spectrum_, May 2006.
 
 Magee, Christopher L. "Needs and Possibilities for Engineering Education: One Industrial/Academic Perspective." Cambridge, MA: Massachusetts Institute of Technology, 2009.
 
@@ -225,9 +225,9 @@ Hastings, Daniel. "The Future of Engineering Systems: Development of Engineering
 
 Sheffi, Yossi. "Geeks and Chiefs: Thoughts on Engineering Education at MIT." 6th Annual Charles L. Miller Lecture, Cambridge, MA, April 5, 2007.
 
-Duderstadt, James. "Engineering for a Changing World: A Road Map to the Future of Engineering Practice, Research, and Education." Ann Arbor, MI: University of Michigan, 2007. ([PDF - 5.5MB](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/88644/2008_A_Roadmap_for_Engineering.pdf?sequence=1&isAllowed=y))
+Duderstadt, James. "Engineering for a Changing World: A Road Map to the Future of Engineering Practice, Research, and Education." Ann Arbor, MI: University of Michigan, 2007. ({{% resource_link "ae4d45de-f4ed-47a8-87b9-7386e7489a0f" "PDF - 5.5MB" %}})
 
-Silbey, Susan. "[Developing Diverse Leadership for Engineering](http://web.mit.edu/ssilbey/www/diverse_leadership.html)."
+Silbey, Susan. "{{% resource_link "4a81e04b-ee0b-4ddd-9c65-0003cacd6ebd" "Developing Diverse Leadership for Engineering" %}}."
 
 
 {{< tdclose >}}
