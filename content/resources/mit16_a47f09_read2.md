@@ -5,8 +5,6 @@ description: Presentation on how some of MIT's key competitors are emphasizing s
 file: /courses/16-a47-the-engineer-of-2020-fall-2009/2844d6ea143f964cc78dd1ef9f52bfb7_MIT16_A47F09_read2.pdf
 file_size: 116177
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
